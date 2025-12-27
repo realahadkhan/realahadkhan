@@ -9,7 +9,7 @@
 ## 🚀 Projects
 - **Project Sentry**  
   Secure authentication system with OTP and rate limiting  
-  🔗 Link coming soon
+ [LINK](https://github.com/realahadkhan/project-sentry)
 
 ## 📫 Contact
-- GitHub: https://github.com/realahadkhan
+- [GitHub](https://github.com/realahadkhan)
