@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**realahadkhan/realahadkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Ahad Khan
 
-Here are some ideas to get you started:
+🛡️ Cybersecurity-Focused Backend Developer (Junior) 
+🔐 Focused on secure authentication systems and Python backends
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- Python (Flask)
+- SQLite
+- Authentication & Security
+- HTML / CSS
+
+## 🚀 Projects
+- **Project Sentry**  
+  Secure authentication system with OTP and rate limiting  
+  🔗 Link coming soon
+
+## 📫 Contact
+- GitHub: https://github.com/realahadkhan
