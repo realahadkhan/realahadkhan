@@ -1,7 +1,3 @@
-## Hi there 👋
-
-# Ahad Khan
-
 🛡️ Cybersecurity-Focused Backend Developer (Junior) 
 🔐 Focused on secure authentication systems and Python backends
 
