@@ -1,5 +1,4 @@
 🛡️ Cybersecurity-Focused Backend Developer (Junior) 
-🔐 Focused on secure authentication systems and Python backends
 
 ## 🔧 Tech Stack
 - Python (Flask)
