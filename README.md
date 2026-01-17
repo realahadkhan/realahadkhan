@@ -1,4 +1,4 @@
-🛡️ Cybersecurity-Focused Backend Developer (Junior) 
+🛡️ Cybersecurity-Focused Aspiring Developer
 
 ## 🔧 Tech Stack
 - Python (Flask)
